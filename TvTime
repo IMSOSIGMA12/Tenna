@@ -1111,8 +1111,8 @@ Empyrean = Start({
 		{ MeshId = "14768684979", Names = { "Left Arm", "Right Arm"}, Offset = CFrame.Angles(0, 0, 1.57), TextureId = "14768683674" },
 		-- Devesto Cube
 		{ Name = "Reanimate_Spamton",  MeshId = "93839976189892", TextureId = "87530318962700", Offset = CFrame.identity },
-    -- Stylish Aviators
-		{ Name = "Reanimate_Spamton",  MeshId = "7138871683", TextureId = "7138871728", Offset = CFrame.Angles(0, Rad(180), 0)},
+    -- Angel Spamton
+		{ Name = "Reanimate_Spamton",  MeshId = "121479536198148", TextureId = "135498376757550", Offset = CFrame.Angles(0, Rad(180), 0)},
 
 	},
 	ApplyDescription = true,
